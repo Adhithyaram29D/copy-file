@@ -23,9 +23,9 @@ with open('f1.txt','r') as f1:
             f2.write(line)
 ```           
 ### OUTPUT:
-FILE1:
+### FILE1:
 ![Screenshot 2023-06-08 233117](https://github.com/Adhithyaram29D/copy-file/assets/119393540/384d0adf-6391-4970-93e7-46376552c4b1)
-FILE2:
+### FILE2:
 ![Screenshot 2023-06-08 233126](https://github.com/Adhithyaram29D/copy-file/assets/119393540/8dc3e7cb-7507-417e-a062-da0a270ef2e2)
 
 ## RESULT:
